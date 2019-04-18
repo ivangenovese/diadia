@@ -40,7 +40,7 @@ public class Labirinto {
 	public void setStanzaFinale(Stanza stanzaFinale) {
 		this.stanzaFinale = stanzaFinale;
 	}
-	
+	//Mio priomo commento
 	@Override
 	public boolean equals(Object o) {
 		Labirinto l = (Labirinto) o;
