@@ -41,6 +41,7 @@ public class Labirinto {
 		this.stanzaFinale = stanzaFinale;
 	}
 	//Mio priomo commento
+	//Secondo commento
 	@Override
 	public boolean equals(Object o) {
 		Labirinto l = (Labirinto) o;
